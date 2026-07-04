@@ -22,7 +22,7 @@ jobs:
           script: |
             echo "🚀 Starting Bhiwadi deployment..."
 
-            cd /var/www/bhiwadi-realestate
+            cd /var/www/bhiwadi
 
             echo "📥 Pulling latest code..."
             git fetch origin
